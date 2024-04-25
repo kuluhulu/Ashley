@@ -1,3 +1,7 @@
+# Xmake
+/.Xmake
+/build
+
 # Prerequisites
 *.d
 
