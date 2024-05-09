@@ -10,7 +10,7 @@ endif(CMAKE_SIZEOF_VOID_P MATCHES 8)
 
 # FFmpeg
 
-set(FFmpeg "./ThirdParty/ffmpeg" CACHE PATH "Root of FFmpeg library")
+set(FFmpeg "./ThirdParty/FFmpeg" CACHE PATH "Root of FFmpeg library")
 
 foreach (lib "avformat" "avcodec" "avutil" "swscale" "avformat" "postproc" "avdevice" "swresample")
 

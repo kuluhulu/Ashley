@@ -1,6 +1,6 @@
 /build
 /ThirdParty/ffmpeg/doc/
 /ThirdParty/SDL/docs/
-/ThirdParty/imgui/docs/
-/ThirdParty/imgui/examples/
+/ThirdParty/ImGUI/docs/
+/ThirdParty/ImGUI/examples/
 
