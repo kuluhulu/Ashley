@@ -1,6 +1,7 @@
-# Xmake
-/.Xmake
 /build
+/ThirdParty/ffmpeg/doc/
+/ThirdParty/SDL/docs/
+/ThirdParty/imgui/docs/
 
 # Prerequisites
 *.d
